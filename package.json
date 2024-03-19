@@ -1,0 +1,29 @@
+{
+  "name": "christopherlee-bit",
+  "version": "1.0.0",
+  "description": "Christopherlee-bit is a Node.js module providing utilities for processing spectrum data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieledwards9065815/christopherlee-bit"
+  },
+  "dependencies": {
+	  "anthonyjones": "1.0.0",
+"borissolodov": "1.0.0",
+"JohnYoung-js": "1.0.0",
+"layer-v11": "1.0.0",
+"vo21": "1.0.0",
+"edwardevans": "1.0.0",
+    "fs": "^0.0.1",
+    "path": "^0.12.7"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieledwards9065815/christopherlee-bit/issues"
+  },
+  "homepage": "https://github.com/danieledwards9065815/christopherlee-bit#readme"
+}
